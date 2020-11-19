@@ -1,3 +1,4 @@
 # docs
 
 
+![Diagram](diagram.png)
